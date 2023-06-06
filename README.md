@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am enrolled in the Thinkful Software Engineering program <br>      to become a successful Full Stack Developer.<br><br>🌱 I am currently learning JS, HTML, CSS, and additional full stack frameworks <br>      through study lessons and projects that I have made.<br><br>My portfolio, projects, and capstone project are pinned on my GitHub Profile.<br><br>💬 I am actively looking for full-time opportunities that are on-site, remote, and hybrid!<br><br>
+🔭 I am enrolled in the Thinkful Software Engineering program to become a successful Full Stack Developer.<br><br>🌱 I am currently learning JS, HTML, CSS, and additional full stack frameworks through study lessons and projects that I have made.<br><br>My portfolio, projects, and capstone project are pinned on my GitHub Profile.<br><br>💬 I am actively looking for full-time opportunities that are on-site, remote, and hybrid!<br><br>
 
 
 ## 🌐 Socials:
